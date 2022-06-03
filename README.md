@@ -1,5 +1,4 @@
 ![](https://i.imgur.com/7kjCa5e.png)
-![](https://i.imgur.com/FS4lxFA.png)
 
 ### Hi there 👋
 
