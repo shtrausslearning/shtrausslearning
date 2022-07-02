@@ -13,16 +13,10 @@
 
 - Aerospace Engineering from Tohoku University (graduate)
 
-<b>My interests on Kaggle: </b>
-
-- Learn new things
-- Creating Machine Learning Models
-- Exploratory Data Analyses (EDA)
-- Neural Networks / Deep Learning w/ PyTorch/Keras (NN/CNN)
-- Bioinformatics
-
 <b>Other Interests:</b>
 
+- Bioinformatics
+- Neural Networks / Deep Learning w/ PyTorch/Keras (NN/CNN)
 - Biomimicry/biomimetics
 - Aerospace & automotive related design and optimisation
 - CFD, CAA & Programming PDE Solvers, openFOAM
