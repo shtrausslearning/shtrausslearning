@@ -12,14 +12,3 @@
 <b>Background</b>: <br>
 
 - Aerospace Engineering from Tohoku University (graduate)
-
-<b>Interests:</b>
-
-- Bioinformatics
-- Neural Networks / Deep Learning w/ PyTorch/Keras (NN/CNN)
-- Biomimicry/biomimetics
-- Aerospace & automotive related design and optimisation
-- CFD, CAA & Programming PDE Solvers, openFOAM
-- Nature Photography [@eos-husky](https://500px.com/p/EOS-Husky) 
-- Administrate my bird group [@da-birds](https://www.deviantart.com/da-birds) 
-- Digital Portrait Art [@straussart](https://www.instagram.com/shtraussart/)
