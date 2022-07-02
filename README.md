@@ -13,7 +13,7 @@
 
 - Aerospace Engineering from Tohoku University (graduate)
 
-<b>Other Interests:</b>
+<b>Interests:</b>
 
 - Bioinformatics
 - Neural Networks / Deep Learning w/ PyTorch/Keras (NN/CNN)
@@ -23,9 +23,3 @@
 - Nature Photography [@eos-husky](https://500px.com/p/EOS-Husky) 
 - Administrate my bird group [@da-birds](https://www.deviantart.com/da-birds) 
 - Digital Portrait Art [@straussart](https://www.instagram.com/shtraussart/)
-- The Blacklist, TBBT, Everybody Loves Raymond 
-
-<b>Languages:</b>
-
-- Fortran/ C++ & Python, R
-- English, Russian & Japanese 
