@@ -4,11 +4,11 @@
 
 <b>About Me</b>:
 
-◦ Data Analyst in field of HPC computing w/ spells of ML applications <br>
-◦ VTM, Exterior Design Optimisation & Aerodynamics & Aeroacoustics <br>
-◦ Working with designers & engineers developing road vehicles <br>
-◦ In my spare time I paint portraits & help run a cosmetology business <br>
+• Data Analyst in field of HPC computing w/ spells of ML applications <br>
+• VTM, Exterior Design Optimisation & Aerodynamics & Aeroacoustics <br>
+• Working with designers & engineers developing road vehicles <br>
+• In my spare time I paint portraits & help run a cosmetology business <br>
 
 <b>Background</b>: <br>
 
-○ Aerospace Engineering from Tohoku University (graduate)
+• Aerospace Engineering from Tohoku University (graduate)
