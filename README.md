@@ -4,10 +4,10 @@
 
 <b>About Me</b>:
 
-○ Data Analyst in field of HPC computing w/ spells of ML applications
-○ VTM, Exterior Design Optimisation & Aerodynamics & Aeroacoustics 
-○ Working with designers & engineers developing road vehicles 
-○ In my spare time I paint portraits & help run a cosmetology business 
+◦ Data Analyst in field of HPC computing w/ spells of ML applications <br>
+◦ VTM, Exterior Design Optimisation & Aerodynamics & Aeroacoustics <br>
+◦ Working with designers & engineers developing road vehicles <br>
+◦ In my spare time I paint portraits & help run a cosmetology business <br>
 
 <b>Background</b>: <br>
 
