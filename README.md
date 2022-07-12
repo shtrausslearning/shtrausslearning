@@ -1,4 +1,4 @@
-<img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=ayu-mirage" alt="shtrausslearning"/> <img align="center" height="200em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact&theme=ayu-mirage"/>
+<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=ayu-mirage" alt="shtrausslearning"/> <img align="center" height="150em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact&theme=ayu-mirage"/>
 
 <b>About Me</b>:
 
