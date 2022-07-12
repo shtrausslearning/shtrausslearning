@@ -12,3 +12,4 @@
 <b>Background</b>: <br>
 
 ➤ Aerospace Engineering from Tohoku University (graduate)
+➤ Worked on Meshless methodology for discretisation & interpolation
