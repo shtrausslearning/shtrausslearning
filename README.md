@@ -4,9 +4,9 @@
 
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
-Hello, my name is Andrey,
-○ I have previously worked on programming CFD,CAA solvers, Machine Learning modules in Fortran (eg. for JAXA projects)
-○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code>
+Hello, my name is Andrey, <br>
+○ Peviously worked on programming CFD,CAA solvers, ML modules in Fortran (eg. for JAXA projects) <br>
+○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> <br>
 
 <b>Current</b>: <br>
 ○ **Data Analyst** in field of HPC computing w/ spells of ML applications <br>
