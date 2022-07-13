@@ -13,6 +13,8 @@
 
 <b>Background</b>: <br>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> (Kaggle GM) <a href='https://t.me/mldsai_info'><img alt="kaggle" src="https://i.imgur.com/wDfaQMs.png" height='18px'/></a> (Telegram Channel)
+
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
 ○ Worked on **Meshless methodology** for discretisation & high order interpolation methods
 
@@ -24,4 +26,4 @@
 
 <br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>    <a href='https://t.me/mldsai_info'><img alt="kaggle" src="https://i.imgur.com/wDfaQMs.png" height='18px'/></a>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'>
