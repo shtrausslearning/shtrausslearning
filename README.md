@@ -1,4 +1,4 @@
-<img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=ayu-mirage" alt="shtrausslearning"/> <img align="center" height="120em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact&theme=ayu-mirage"/>
+<img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=ayu-mirage" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact&theme=ayu-mirage"/>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors)
 
