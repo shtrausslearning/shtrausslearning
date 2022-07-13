@@ -1,5 +1,7 @@
 <img align="center" src="https://i.imgur.com/o1je484.jpeg" alt="shtrausslearning"/>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'>
+
 <b>About Me</b>:
 
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
@@ -36,7 +38,5 @@ Hello, my name is Andrey, <br>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a> <br>
 
 <br>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'>
   
   <img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact"/>
