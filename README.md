@@ -2,8 +2,6 @@
 
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors)
-
 <b>About Me</b>:
 
 ○ **Data Analyst** in field of HPC computing w/ spells of ML applications <br>
@@ -19,3 +17,5 @@
 
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
 ○ Worked on **Meshless methodology** for discretisation & high order interpolation methods
+
+<b>Visits</b>: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors)
