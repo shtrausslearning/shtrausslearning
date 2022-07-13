@@ -1,4 +1,4 @@
-<img align="center" height="130em" src="https://i.imgur.com/o1je484.jpeg" alt="shtrausslearning"/>
+<img align="center" src="https://i.imgur.com/o1je484.jpeg" alt="shtrausslearning"/>
 <img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact"/>
 
 <b>About Me</b>:
