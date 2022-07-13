@@ -16,7 +16,7 @@
 <b>Background</b>: <br>
 
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
-○ Worked on **Meshless methodology** for discretisation & high order interpolation methods
+○ Worked on **Meshless methodology** for discretisation & high order interpolation methods <br>
 ○ Specialise in Computation Fluid Dynamics & Aeroacoustics in eg. **openFOAM**
 
 <b>Favourite Tools</b>: <br>
