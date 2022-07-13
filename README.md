@@ -1,5 +1,7 @@
 <img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact"/>
 
+<a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors)
 
 <b>About Me</b>:
