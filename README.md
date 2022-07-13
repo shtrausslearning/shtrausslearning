@@ -1,5 +1,7 @@
 <img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact"/>
 
+<a href='https://github.com/shtrausslearning/github-stats-transparent'>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors)
 
 <b>About Me</b>:
