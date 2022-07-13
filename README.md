@@ -26,7 +26,7 @@ Hello, my name is Andrey, <br>
 <b>Background</b>: <br>
 
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
-○ Worked on **Meshless methodology** for discretisation & high order interpolation methods <br>
+○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
 ○ Specialise in Computation Fluid Dynamics & Aeroacoustics in eg. **openFOAM**
 
 <b>Favourite Tools</b>: <br>
