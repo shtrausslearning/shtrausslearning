@@ -9,7 +9,10 @@
 ○ Working with designers & engineers developing road vehicles <br>
 ○ In my spare time I paint portraits & help run a cosmetology business <br>
 
+<b>My Interests</b>:
+○ Data Science, Bioinformatics, Machine Learning
+
 <b>Background</b>: <br>
 
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
-○ Worked on Meshless methodology for discretisation & interpolation
+○ Worked on Meshless methodology for discretisation & interpolation 
