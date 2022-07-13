@@ -9,8 +9,8 @@
 ○ Working with designers & engineers developing road vehicles <br>
 ○ In my spare time I paint portraits & help run a cosmetology business <br>
 
-<b>My Interests</b>:
-○ Data Science, Bioinformatics, Machine Learning
+<b>My Interests</b>: <br>
+○ <code>Data Science</code>, <code>Bioinformatics</code>, <code>Machine Learning</code>
 
 <b>Background</b>: <br>
 
