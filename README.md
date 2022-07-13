@@ -19,9 +19,9 @@ Hello, my name is Andrey, <br>
 
 ○ **<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
 
-<b>Currently working on:</b>: <br>
+<b>Currently working on</b>: <br>
 
-○ **NPL** interpreter & biological analysis modules (eg. bioinformatics) for **[biopylab](https://libraries.io/pypi/biopylib)** 
+○ **NPL** interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://libraries.io/pypi/biopylib)** 
 
 <b>Background</b>: <br>
 
