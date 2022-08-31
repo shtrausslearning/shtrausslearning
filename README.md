@@ -8,7 +8,7 @@
 
 Hello, my name is Andrey, <br>
 ○ Peviously worked on programming CFD,CAA solvers, ML modules in Fortran (eg. for JAXA project) <br>
-○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> <br>
+○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> and alike <br>
 
 <b>Current</b>: <br>
 ○ Aerodynamicist in the aerospace industry <br>
