@@ -11,9 +11,7 @@ Hello, my name is Andrey, <br>
 ○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> <br>
 
 <b>Current</b>: <br>
-○ **Data Analyst** in field of HPC computing w/ spells of ML applications <br>
-○ VTM, Exterior Design Optimisation & Aerodynamics & Aeroacoustics <br>
-○ Working with designers & engineers developing road vehicles <br>
+○ Aerodynamicist in the aerospace industry <br>
 ○ In my spare time I paint portraits & help run a cosmetology business <br>
 ○ I like to visit Kaggle as well, my profile is linked in above <br>
 
