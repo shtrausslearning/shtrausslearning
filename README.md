@@ -21,7 +21,7 @@ Hello, my name is Andrey, <br>
 
 <b>Currently working on</b>: <br>
 
-○ **NPL** interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://pypi.org/project/biopylib/0.0.5/)** 
+○ <code>NLP</code> interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://pypi.org/project/biopylib/0.0.5/)** 
 
 <b>Background</b>: <br>
 
