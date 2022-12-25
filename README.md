@@ -11,6 +11,7 @@ Hello, my name is Andrey, <br>
 ○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> and alike <br>
 
 <b>Current</b>: <br>
+  
 ○ Aerodynamicist in the aerospace industry <br>
 ○ In my spare time I paint portraits & help run a cosmetology business <br>
 ○ I like to visit Kaggle as well, my profile is linked in above <br>
@@ -21,7 +22,7 @@ Hello, my name is Andrey, <br>
 
 <b>Currently working on</b>: <br>
 
-○ <code>NLP</code> interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://pypi.org/project/biopylib/0.0.5/)** 
+○ <code>NLP</code> interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://pypi.org/project/biopylib/0.0.5/)**
 
 <b>Background</b>: <br>
 
