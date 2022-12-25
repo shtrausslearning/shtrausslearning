@@ -39,4 +39,4 @@ Hello, my name is Andrey, <br>
   
   <img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning" alt="shtrausslearning"/> <img align="center" height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shtrausslearning&layout=compact"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=github_profile"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=nlp"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=Deep-Learning-Projects"/> 
