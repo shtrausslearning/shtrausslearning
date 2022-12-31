@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/o1je484.jpeg" alt="shtrausslearning"/>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social)
 
 <b>About Me</b>:
 
