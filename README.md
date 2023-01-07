@@ -1,4 +1,5 @@
-<img align="center" src="https://i.imgur.com/REEJmGv.png" alt="shtrausslearning"/>
+<img align="center" src="https://i.imgur.com/LKJDDZa.jpg" alt="shtrausslearning"/>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shtrausslearning.visitor-badge&left_text=My%20Page%20Visitors) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a>
 
