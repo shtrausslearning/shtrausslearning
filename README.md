@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/xcsyhDL.jpg" alt="shtrausslearning"/>
+<img align="center" src="https://i.imgur.com/6Pq3QUO.jpg" alt="shtrausslearning"/>
 
  <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a>
 
