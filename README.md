@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/6Pq3QUO.jpg" alt="shtrausslearning"/>
+<img align="center" width="800px" src="https://i.imgur.com/6Pq3QUO.jpg" alt="shtrausslearning"/>
 
  <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a>
 
@@ -35,4 +35,7 @@ Hello, my name is Andrey, <br>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a> <br>
-  
+
+<br>
+
+<img align="left" height="130px" src="https://github-readme-stats.vercel.app/api?username=shtrausslearning&theme=graywhite&show_icons=true&hide_border=false&count_private=false" alt="shtrausslearning"/> <img align="center" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=graywhite&hide_border=false" alt="shtrausslearning"/> 
