@@ -2,33 +2,23 @@
 
 <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> <a href="https://komarev.com/ghpvc/?username=shtrausslearning"><img src="https://komarev.com/ghpvc/?username=shtrausslearning&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /></a>
 
-<b>About Me</b>:
-
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
 Hello, my name is Andrey :3 <br>
-○ Peviously worked on programming CFD,CAA solvers, ML modules in Fortran (eg. for JAXA project) <br>
-○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> and alike <br>
-
-<b>Current</b>: <br>
-  
-○ Aerodynamicist in the aerospace industry <br>
-○ In my spare time I paint portraits & help run a cosmetology business <br>
-○ I like to visit Kaggle as well, my profile is linked in above <br>
+○ Aerodynamicist & Data Analyst <br>
+○ Peviously worked on meshless and synthetic turbulence topics & biomimicry in aerodynamics <br>
+○ In my spare time I paint portraits 
+○ I like to work on Kaggle, my profile is linked in above <br>
 
 <b>My Interests</b>: <br>
 
 ○ **<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
 
-<b>Currently working on</b>: <br>
-
-○ <code>NLP</code> interpreter & biological analysis modules (eg. **bioinformatics**) for **[biopylab](https://pypi.org/project/biopylib/0.0.5/)**
-
-<b>Background</b>: <br>
+**Background**
 
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
 ○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
-○ Specialise in Computation Fluid Dynamics & Aeroacoustics in eg. **openFOAM**
+○ Specialise in Computation Fluid Dynamics & Aeroacoustics
 
 <b>Favourite Tools</b>: <br>
 
@@ -42,6 +32,6 @@ Hello, my name is Andrey :3 <br>
 
 <b>Projects</b>: <br>
 
-Open source projects I'm working on 
+Open source projects I'm working on, looking for some help :3
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs&theme=nord)](https://github.com/shtrausslearning/mllibs) 
