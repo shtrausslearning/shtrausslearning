@@ -12,7 +12,7 @@ Hello, my name is Andrey :3 <br>
 
 <b>My Interests</b>: <br>
 
-○ **<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
+**<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
 
 **Background**
 
