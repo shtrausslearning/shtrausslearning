@@ -1,12 +1,12 @@
 <img align="center" width="800px" src="https://i.imgur.com/6Pq3QUO.jpg" alt="shtrausslearning"/>
 
- <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a>
+<a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> <a href="https://komarev.com/ghpvc/?username=shtrausslearning"><img src="https://komarev.com/ghpvc/?username=shtrausslearning&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /></a>
 
 <b>About Me</b>:
 
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
-Hello, my name is Andrey, <br>
+Hello, my name is Andrey :3 <br>
 ○ Peviously worked on programming CFD,CAA solvers, ML modules in Fortran (eg. for JAXA project) <br>
 ○ My interest has since shifted to Machine Learning & Data Science, developement w/ <code>Python</code> and alike <br>
 
@@ -38,4 +38,20 @@ Hello, my name is Andrey, <br>
 
 <br>
 
-<img align="left" height="130px" src="https://github-readme-stats.vercel.app/api?username=shtrausslearning&theme=graywhite&show_icons=true&hide_border=false&count_private=false" alt="shtrausslearning"/> <img align="center" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=shtrausslearning&theme=graywhite&hide_border=false" alt="shtrausslearning"/> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shtrausslearning&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shtrausslearning&show_icons=true&theme=gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<b>Projects</b>: <br>
+
+Open source projects I'm working on 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs)](https://github.com/shtrausslearning/mllibs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=biopylib)](https://github.com/shtrausslearning/biopylib)
