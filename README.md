@@ -7,7 +7,7 @@
 Hello, my name is Andrey :3 <br>
 ○ Aerodynamicist & Data Analyst <br>
 ○ Peviously worked on meshless and synthetic turbulence topics & biomimicry in aerodynamics <br>
-○ In my spare time I paint portraits 
+○ In my spare time I paint portraits <br>
 ○ I like to work on Kaggle, my profile is linked in above <br>
 
 <b>My Interests</b>: <br>
