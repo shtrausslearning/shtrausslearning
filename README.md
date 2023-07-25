@@ -44,4 +44,4 @@ Hello, my name is Andrey :3 <br>
 
 Open source projects I'm working on 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs)](https://github.com/shtrausslearning/mllibs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=biopylib)](https://github.com/shtrausslearning/biopylib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs&theme=nord)](https://github.com/shtrausslearning/mllibs) 
