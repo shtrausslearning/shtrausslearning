@@ -1,4 +1,4 @@
-<img align="center" width="800px" src="https://i.imgur.com/KwU9oJ4.jpg" alt="shtrausslearning"/>
+<img align="center" width="800px" src="https://i.imgur.com/92lsng4.jpg" alt="shtrausslearning"/>
 
 
 ![](https://img.shields.io/badge/Kaggle-Grandmaster-FAE01C) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> [![](https://visitcount.itsvg.in/api?id=shtrausslearning&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
