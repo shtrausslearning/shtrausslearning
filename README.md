@@ -1,7 +1,7 @@
 <img align="center" width="800px" src="https://i.imgur.com/92lsng4.jpg" alt="shtrausslearning"/>
 
 
-![](https://img.shields.io/badge/Kaggle-Grandmaster-FAE01C) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> [![](https://visitcount.itsvg.in/api?id=shtrausslearning&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![](https://img.shields.io/badge/Kaggle-Grandmaster-FAE01C) <a href='https://www.kaggle.com/shtrausslearning/'> ![](https://img.shields.io/github/followers/shtrausslearning?style=social) ![](https://img.shields.io/github/stars/shtrausslearning?style=social) <a href="https://t.me/mldsai_info"><img src="https://img.shields.io/static/v1?&message=Telegram&color=3776AB&logo=Telegram&logoColor=FFFFFF&label=" /></a> [![](https://visitcount.itsvg.in/api?id=shtrausslearning&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
