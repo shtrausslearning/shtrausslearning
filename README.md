@@ -6,7 +6,7 @@
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
 Hello, my name is Andrey :3 <br>
-○ Data Analyst <br>
+○ Data Analyst in financial sector<br>
 ○ Peviously worked on meshless and synthetic turbulence topics & biomimicry in aerodynamics <br>
 ○ In my spare time I paint portraits <br>
 ○ I like to work on Kaggle, my profile is linked in above <br>
