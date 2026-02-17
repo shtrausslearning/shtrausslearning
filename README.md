@@ -17,5 +17,3 @@ Hello, my name is Andrey :3 <br>
 ○ Aerospace Engineering from Tohoku University (graduate) <br>
 ○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
 ○ Specialise in Computation Fluid Dynamics & Aeroacoustics
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shtrausslearning&repo=mllibs&theme=nord)](https://github.com/shtrausslearning/mllibs) 
