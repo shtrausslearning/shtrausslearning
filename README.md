@@ -4,7 +4,7 @@
 
 Hello, my name is Andrey :3 <br>
 ○ Data Analyst, working with transactional data <br>
-○ Peviously worked on meshless and JAXA synthetic turbulence projects & [biomimicry optimisation in aerodynamics](https://www.researchgate.net/publication/278049411_Bio-Inspired_Design_Aerodynamics_of_Boxfish) <br>
+○ Peviously worked on meshless PDE descretisation and JAXA synthetic turbulence projects & [biomimicry optimisation in aerodynamics](https://www.researchgate.net/publication/278049411_Bio-Inspired_Design_Aerodynamics_of_Boxfish) <br>
 ○ In my spare time I paint portraits and take [photos](https://500px.com/EOS-Husky) <br>
 ○ I like to work on Kaggle, my profile is linked in above <br>
 
