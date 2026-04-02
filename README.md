@@ -10,10 +10,6 @@ Hello, my name is Andrey :3 <br>
 
 <b>My Interests</b>: <br>
 
+I'm currently expanding my knowledge in big data approaches
+
 **<code>Data Science</code>**, **<code>Bioinformatics</code>**, **<code>Machine Learning</code>**
-
-**Background**
-
-○ Aerospace Engineering from Tohoku University (graduate) <br>
-○ Worked on **Meshless methodology** for discretisation & high order interpolation methods (ML approach)<br>
-○ Specialise in Computation Fluid Dynamics & Aeroacoustics
