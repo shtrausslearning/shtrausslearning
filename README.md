@@ -3,7 +3,7 @@
 <a href='https://www.kaggle.com/shtrausslearning/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='25px'/></a>
 
 Hello, my name is Andrey :3 <br>
-○ Data Analyst, working with transactional data <br>
+○ Data Analyst/CJE, working with transactional data & monitoring<br>
 ○ Peviously worked on [meshless PDE descretisation](https://github.com/shtrausslearning/Meshless-Discretisation-Solvers), JAXA synthetic turbulence projects (closed) & [biomimicry optimisation in aerodynamics](https://www.researchgate.net/publication/278049411_Bio-Inspired_Design_Aerodynamics_of_Boxfish) & ultimately luxury automotive developement optimisation & data analytics. <br>
 ○ In my spare time I paint portraits and take [photos](https://500px.com/EOS-Husky) <br>
 ○ I like to work on Kaggle, my profile is linked above <br>
