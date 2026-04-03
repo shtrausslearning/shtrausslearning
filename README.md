@@ -5,7 +5,7 @@
 Hello, my name is Andrey :3 <br>
 ○ Data Analyst/CJE, working with transactional data & monitoring<br>
 ○ Peviously worked on [meshless PDE descretisation](https://github.com/shtrausslearning/Meshless-Discretisation-Solvers), JAXA synthetic turbulence projects (closed) & [biomimicry optimisation in aerodynamics](https://www.researchgate.net/publication/278049411_Bio-Inspired_Design_Aerodynamics_of_Boxfish) & ultimately luxury automotive developement optimisation & data analytics. <br>
-○ In my spare time I paint portraits and take [photos](https://500px.com/EOS-Husky) <br>
+○ In my spare time I paint [portraits](https://www.instagram.com/shtraussart/) and take [photos](https://500px.com/EOS-Husky) <br>
 ○ I like to work on Kaggle, my profile is linked above <br>
 
 <b>My Interests</b>: <br>
